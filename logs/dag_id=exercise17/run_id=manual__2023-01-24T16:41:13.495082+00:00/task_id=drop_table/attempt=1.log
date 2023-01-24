@@ -1,0 +1,56 @@
+[2023-01-24T16:41:14.113+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exercise17.drop_table manual__2023-01-24T16:41:13.495082+00:00 [queued]>
+[2023-01-24T16:41:14.120+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exercise17.drop_table manual__2023-01-24T16:41:13.495082+00:00 [queued]>
+[2023-01-24T16:41:14.121+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T16:41:14.121+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2023-01-24T16:41:14.122+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T16:41:14.130+0000] {taskinstance.py:1300} INFO - Executing <Task(SqliteOperator): drop_table> on 2023-01-24 16:41:13.495082+00:00
+[2023-01-24T16:41:14.135+0000] {standard_task_runner.py:55} INFO - Started process 2037 to run task
+[2023-01-24T16:41:14.138+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exercise17', 'drop_table', 'manual__2023-01-24T16:41:13.495082+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/exercise17.py', '--cfg-path', '/tmp/tmphhywa_7o']
+[2023-01-24T16:41:14.139+0000] {standard_task_runner.py:83} INFO - Job 16: Subtask drop_table
+[2023-01-24T16:41:14.194+0000] {task_command.py:388} INFO - Running <TaskInstance: exercise17.drop_table manual__2023-01-24T16:41:13.495082+00:00 [running]> on host 2ee7bc173f76
+[2023-01-24T16:41:14.217+0000] {abstractoperator.py:613} ERROR - Exception rendering Jinja template for task 'drop_table', field 'sql'. Template: 'sql/drop_table.sql'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 606, in _do_render_template_fields
+    seen_oids,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 657, in render_template
+    template = jinja_env.get_template(value)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: sql/drop_table.sql
+[2023-01-24T16:41:14.219+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1374, in _run_raw_task
+    self._execute_task_with_callbacks(context, test_mode)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1493, in _execute_task_with_callbacks
+    task_orig = self.render_templates(context=context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 2115, in render_templates
+    original_task.render_template_fields(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/baseoperator.py", line 1179, in render_template_fields
+    self._do_render_template_fields(self, self.template_fields, context, jinja_env, set())
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/utils/session.py", line 75, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 606, in _do_render_template_fields
+    seen_oids,
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 657, in render_template
+    template = jinja_env.get_template(value)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: sql/drop_table.sql
+[2023-01-24T16:41:14.229+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=exercise17, task_id=drop_table, execution_date=20230124T164113, start_date=20230124T164114, end_date=20230124T164114
+[2023-01-24T16:41:14.237+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 16 for task drop_table (sql/drop_table.sql; 2037)
+[2023-01-24T16:41:14.274+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2023-01-24T16:41:14.293+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,34 @@
+[2023-01-24T17:13:51.619+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: maingoal.write_flights manual__2023-01-24T17:13:50.147035+00:00 [queued]>
+[2023-01-24T17:13:51.627+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: maingoal.write_flights manual__2023-01-24T17:13:50.147035+00:00 [queued]>
+[2023-01-24T17:13:51.628+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T17:13:51.629+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2023-01-24T17:13:51.629+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T17:13:51.640+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): write_flights> on 2023-01-24 17:13:50.147035+00:00
+[2023-01-24T17:13:51.646+0000] {standard_task_runner.py:55} INFO - Started process 4805 to run task
+[2023-01-24T17:13:51.650+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'maingoal', 'write_flights', 'manual__2023-01-24T17:13:50.147035+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/exam1.py', '--cfg-path', '/tmp/tmpaci0awhz']
+[2023-01-24T17:13:51.651+0000] {standard_task_runner.py:83} INFO - Job 17: Subtask write_flights
+[2023-01-24T17:13:51.716+0000] {task_command.py:388} INFO - Running <TaskInstance: maingoal.write_flights manual__2023-01-24T17:13:50.147035+00:00 [running]> on host 2ee7bc173f76
+[2023-01-24T17:13:51.773+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=maingoal
+AIRFLOW_CTX_TASK_ID=write_flights
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-24T17:13:50.147035+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-24T17:13:50.147035+00:00
+[2023-01-24T17:13:51.778+0000] {taskinstance.py:1768} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/decorators/base.py", line 217, in execute
+    return_value = super().execute(context)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 192, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/exam1.py", line 49, in write_flights
+    f.write(flights)
+TypeError: write() argument must be str, not PlainXComArg
+[2023-01-24T17:13:51.788+0000] {taskinstance.py:1323} INFO - Marking task as FAILED. dag_id=maingoal, task_id=write_flights, execution_date=20230124T171350, start_date=20230124T171351, end_date=20230124T171351
+[2023-01-24T17:13:51.796+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 17 for task write_flights (write() argument must be str, not PlainXComArg; 4805)
+[2023-01-24T17:13:51.823+0000] {local_task_job.py:208} INFO - Task exited with return code 1
+[2023-01-24T17:13:51.840+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

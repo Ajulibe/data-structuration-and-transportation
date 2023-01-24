@@ -1,4 +1,4 @@
-FILE_PATH = "resources/csv/users.csv" 
+FILE_PATH = "../resources/csv/users.csv"
 
 class User:
   def __init__(self, id: int, name: str, city: str, school: str) -> None:

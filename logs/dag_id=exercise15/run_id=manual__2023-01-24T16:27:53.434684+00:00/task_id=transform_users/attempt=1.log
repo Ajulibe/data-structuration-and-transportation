@@ -1,0 +1,26 @@
+[2023-01-24T16:27:55.531+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exercise15.transform_users manual__2023-01-24T16:27:53.434684+00:00 [queued]>
+[2023-01-24T16:27:55.537+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: exercise15.transform_users manual__2023-01-24T16:27:53.434684+00:00 [queued]>
+[2023-01-24T16:27:55.538+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T16:27:55.538+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2023-01-24T16:27:55.539+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-24T16:27:55.547+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): transform_users> on 2023-01-24 16:27:53.434684+00:00
+[2023-01-24T16:27:55.552+0000] {standard_task_runner.py:55} INFO - Started process 895 to run task
+[2023-01-24T16:27:55.555+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'exercise15', 'transform_users', 'manual__2023-01-24T16:27:53.434684+00:00', '--job-id', '13', '--raw', '--subdir', 'DAGS_FOLDER/exercise15.py', '--cfg-path', '/tmp/tmpo7_rw1na']
+[2023-01-24T16:27:55.556+0000] {standard_task_runner.py:83} INFO - Job 13: Subtask transform_users
+[2023-01-24T16:27:55.606+0000] {task_command.py:388} INFO - Running <TaskInstance: exercise15.transform_users manual__2023-01-24T16:27:53.434684+00:00 [running]> on host 2ee7bc173f76
+[2023-01-24T16:27:55.662+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=exercise15
+AIRFLOW_CTX_TASK_ID=transform_users
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-24T16:27:53.434684+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-24T16:27:53.434684+00:00
+[2023-01-24T16:27:55.663+0000] {logging_mixin.py:137} INFO - User(id='0001', name='Pierre', city='Paris', school='EPITA', age=36, is_teacher=True)
+[2023-01-24T16:27:55.664+0000] {logging_mixin.py:137} INFO - User(id='0002', name='Ada', city='London', school='Home', age=28, is_teacher=False)
+[2023-01-24T16:27:55.664+0000] {logging_mixin.py:137} INFO - User(id='0003', name='Margaret', city='Boston', school='MIT', age=33, is_teacher=True)
+[2023-01-24T16:27:55.665+0000] {python.py:177} INFO - Done. Returned value was: None
+[2023-01-24T16:27:55.673+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=exercise15, task_id=transform_users, execution_date=20230124T162753, start_date=20230124T162755, end_date=20230124T162755
+[2023-01-24T16:27:55.690+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-01-24T16:27:55.704+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

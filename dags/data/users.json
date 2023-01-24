@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0001",
+    "name": "Pierre",
+    "city": "Paris",
+    "school": "EPITA",
+    "age": 36,
+    "is_teacher": true
+  },
+  {
+    "id": "0002",
+    "name": "Ada",
+    "city": "London",
+    "school": "Home",
+    "age": 28,
+    "is_teacher": false
+  },
+  {
+    "id": "0003",
+    "name": "Margaret",
+    "city": "Boston",
+    "school": "MIT",
+    "age": 33,
+    "is_teacher": true
+  }
+]

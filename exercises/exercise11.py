@@ -22,5 +22,7 @@ response = requests.get(cdg_flights, params=params)
 
 flights = response.json()
 
+print(flights)
+
 counter = Counter([flight["estArrivalAirport"] for flight in flights if (flight["estArrivalAirport"] is not None and flight["estArrivalAirport"] != "LFPG")])
 print(counter.most_common(1))
