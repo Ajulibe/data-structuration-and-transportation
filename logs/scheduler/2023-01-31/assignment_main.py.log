@@ -1,0 +1,392 @@
+[2023-01-31T10:15:25.465+0000] {processor.py:153} INFO - Started process (PID=60) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:25.509+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:15:25.545+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:25.544+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:25.959+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:26.236+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:26.236+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:15:26.323+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:26.323+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:15:26.571+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 1.117 seconds
+[2023-01-31T10:15:56.974+0000] {processor.py:153} INFO - Started process (PID=143) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:56.980+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:15:56.985+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:56.984+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:57.047+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:15:57.083+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:57.083+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:15:57.130+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:15:57.130+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:15:57.159+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.197 seconds
+[2023-01-31T10:16:27.468+0000] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:27.471+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:16:27.477+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:27.477+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:27.509+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:27.567+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:27.567+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:16:27.600+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:27.599+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:16:27.627+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.164 seconds
+[2023-01-31T10:16:57.857+0000] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:57.860+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:16:57.862+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:57.862+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:57.893+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:16:57.924+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:57.924+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:16:57.952+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:16:57.952+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:16:57.966+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.114 seconds
+[2023-01-31T10:17:28.582+0000] {processor.py:153} INFO - Started process (PID=380) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:28.586+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:17:28.589+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:28.589+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:28.622+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:28.690+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:28.689+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:17:28.718+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:28.718+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:17:28.745+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.166 seconds
+[2023-01-31T10:17:58.999+0000] {processor.py:153} INFO - Started process (PID=458) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:59.001+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:17:59.003+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:59.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:59.044+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:17:59.078+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:59.078+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:17:59.111+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:17:59.111+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:17:59.153+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.156 seconds
+[2023-01-31T10:18:29.736+0000] {processor.py:153} INFO - Started process (PID=543) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:18:29.740+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:18:29.743+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:18:29.742+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:18:29.825+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:18:29.908+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:18:29.906+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:18:29.975+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:18:29.975+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:18:30.008+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.287 seconds
+[2023-01-31T10:19:00.402+0000] {processor.py:153} INFO - Started process (PID=616) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:00.405+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:19:00.408+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:00.408+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:00.503+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:00.541+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:00.541+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:19:00.574+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:00.574+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:19:00.660+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.263 seconds
+[2023-01-31T10:19:31.550+0000] {processor.py:153} INFO - Started process (PID=713) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:31.553+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:19:31.556+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:31.556+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:31.593+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:19:31.702+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:31.702+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:19:31.757+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:19:31.757+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:19:31.847+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.299 seconds
+[2023-01-31T10:20:03.010+0000] {processor.py:153} INFO - Started process (PID=793) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:03.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:20:03.018+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:03.018+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:03.041+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:03.071+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:03.071+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:20:03.096+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:03.096+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:20:03.141+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.137 seconds
+[2023-01-31T10:20:33.681+0000] {processor.py:153} INFO - Started process (PID=876) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:33.682+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:20:33.684+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:33.684+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:33.717+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:20:33.755+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:33.755+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:20:33.776+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:20:33.776+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:20:33.819+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.141 seconds
+[2023-01-31T10:21:03.911+0000] {processor.py:153} INFO - Started process (PID=955) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:03.914+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:21:03.915+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:03.915+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:03.942+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:03.972+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:03.972+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:21:03.989+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:03.989+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:21:04.002+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.094 seconds
+[2023-01-31T10:21:34.895+0000] {processor.py:153} INFO - Started process (PID=1034) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:34.896+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:21:34.897+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:34.897+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:34.919+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:21:34.956+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:34.956+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:21:34.976+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:21:34.976+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:21:35.001+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.110 seconds
+[2023-01-31T10:22:07.039+0000] {processor.py:153} INFO - Started process (PID=1121) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:07.102+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:22:07.114+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:07.114+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:07.293+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:07.438+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:07.438+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:22:07.538+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:07.537+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:22:07.686+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.658 seconds
+[2023-01-31T10:22:37.992+0000] {processor.py:153} INFO - Started process (PID=1207) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:37.994+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:22:37.995+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:37.995+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:38.016+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:22:38.048+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:38.048+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:22:38.066+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:22:38.066+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:22:38.082+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.093 seconds
+[2023-01-31T10:23:09.269+0000] {processor.py:153} INFO - Started process (PID=1284) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:09.282+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:23:09.305+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:09.305+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:09.474+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:09.533+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:09.533+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:23:09.555+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:09.555+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:23:09.582+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.321 seconds
+[2023-01-31T10:23:40.524+0000] {processor.py:153} INFO - Started process (PID=1363) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:40.534+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:23:40.540+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:40.540+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:40.566+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:23:40.608+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:40.608+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:23:40.634+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:23:40.634+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:23:40.652+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.133 seconds
+[2023-01-31T10:24:11.634+0000] {processor.py:153} INFO - Started process (PID=1442) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:11.643+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:24:11.655+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:11.655+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:11.711+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:11.758+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:11.758+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:24:11.806+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:11.806+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:24:11.873+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.248 seconds
+[2023-01-31T10:24:42.694+0000] {processor.py:153} INFO - Started process (PID=1520) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:42.698+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:24:42.709+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:42.709+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:42.763+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:24:42.795+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:42.795+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:24:42.832+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:24:42.831+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:24:42.870+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.181 seconds
+[2023-01-31T10:25:12.977+0000] {processor.py:153} INFO - Started process (PID=1618) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:12.981+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:25:12.983+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:12.983+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:13.118+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:13.174+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:13.174+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:25:13.220+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:13.220+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:25:13.265+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.292 seconds
+[2023-01-31T10:25:44.472+0000] {processor.py:153} INFO - Started process (PID=1698) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:44.475+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:25:44.477+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:44.477+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:44.543+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:25:44.631+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:44.631+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:25:44.665+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:25:44.664+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:25:44.690+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.223 seconds
+[2023-01-31T10:26:16.476+0000] {processor.py:153} INFO - Started process (PID=1777) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:16.480+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:26:16.482+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:16.481+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:16.500+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:16.529+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:16.529+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:26:16.555+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:16.555+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:26:16.575+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.104 seconds
+[2023-01-31T10:26:47.542+0000] {processor.py:153} INFO - Started process (PID=1860) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:47.547+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:26:47.549+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:47.549+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:47.569+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:26:47.591+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:47.591+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:26:47.620+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:26:47.620+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:26:47.656+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.117 seconds
+[2023-01-31T10:27:18.145+0000] {processor.py:153} INFO - Started process (PID=1955) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:18.146+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:27:18.147+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:18.147+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:18.174+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:18.209+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:18.209+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:27:18.227+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:18.227+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:27:18.242+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.100 seconds
+[2023-01-31T10:27:49.297+0000] {processor.py:153} INFO - Started process (PID=2035) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:49.299+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:27:49.300+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:49.300+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:49.318+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:27:49.340+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:49.340+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:27:49.360+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:27:49.360+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:27:49.374+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.080 seconds
+[2023-01-31T10:28:20.360+0000] {processor.py:153} INFO - Started process (PID=2130) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:20.389+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:28:20.396+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:20.396+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:20.420+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:20.449+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:20.449+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:28:20.525+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:20.525+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:28:20.545+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.189 seconds
+[2023-01-31T10:28:50.801+0000] {processor.py:153} INFO - Started process (PID=2209) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:50.803+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:28:50.803+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:50.803+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:50.819+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:28:50.843+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:50.843+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:28:50.896+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:28:50.896+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:28:50.909+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.111 seconds
+[2023-01-31T10:29:21.616+0000] {processor.py:153} INFO - Started process (PID=2287) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:21.619+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:29:21.623+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:21.623+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:21.673+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:21.742+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:21.742+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:29:21.786+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:21.786+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:29:21.840+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.228 seconds
+[2023-01-31T10:29:52.071+0000] {processor.py:153} INFO - Started process (PID=2366) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:52.072+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:29:52.073+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:52.073+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:52.099+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:29:52.142+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:52.142+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:29:52.175+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:29:52.175+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:29:52.191+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.123 seconds
+[2023-01-31T10:30:23.087+0000] {processor.py:153} INFO - Started process (PID=2445) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:23.088+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:30:23.089+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:23.089+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:23.111+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:23.136+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:23.136+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:30:23.156+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:23.155+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:30:23.173+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.090 seconds
+[2023-01-31T10:30:53.890+0000] {processor.py:153} INFO - Started process (PID=2524) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:53.892+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:30:53.893+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:53.893+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:53.910+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:30:53.933+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:53.933+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:30:53.964+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:30:53.964+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:30:53.989+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.103 seconds
+[2023-01-31T10:31:24.879+0000] {processor.py:153} INFO - Started process (PID=2617) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:24.881+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:31:24.882+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:24.882+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:24.907+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:24.933+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:24.933+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:31:24.952+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:24.952+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:31:24.972+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.097 seconds
+[2023-01-31T10:31:55.400+0000] {processor.py:153} INFO - Started process (PID=2695) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:55.403+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:31:55.406+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:55.405+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:55.428+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:31:55.476+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:55.475+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:31:55.507+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:31:55.507+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:31:55.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.136 seconds
+[2023-01-31T10:32:26.382+0000] {processor.py:153} INFO - Started process (PID=2774) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:26.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:32:26.396+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:26.396+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:26.431+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:26.499+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:26.498+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:32:26.555+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:26.555+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:32:26.689+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.312 seconds
+[2023-01-31T10:32:57.317+0000] {processor.py:153} INFO - Started process (PID=2869) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:57.319+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:32:57.320+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:57.320+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:57.342+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:32:57.366+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:57.366+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:32:57.386+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:32:57.386+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:32:57.403+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.088 seconds
+[2023-01-31T10:33:28.574+0000] {processor.py:153} INFO - Started process (PID=2948) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:28.575+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:33:28.576+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:28.576+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:28.593+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:28.621+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:28.621+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:33:28.640+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:28.640+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:33:28.654+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.083 seconds
+[2023-01-31T10:33:59.832+0000] {processor.py:153} INFO - Started process (PID=3043) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:59.835+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:33:59.836+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:59.836+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:59.855+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:33:59.882+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:59.882+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:33:59.902+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:33:59.901+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:33:59.917+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.089 seconds
+[2023-01-31T10:34:31.017+0000] {processor.py:153} INFO - Started process (PID=3122) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:34:31.018+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:34:31.019+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:34:31.019+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:34:31.036+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:34:31.068+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:34:31.068+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:34:31.089+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:34:31.089+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:34:31.105+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.091 seconds
+[2023-01-31T10:35:01.584+0000] {processor.py:153} INFO - Started process (PID=3202) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:01.587+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:35:01.588+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:01.588+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:01.613+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:01.640+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:01.640+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:35:01.659+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:01.659+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:35:01.675+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.094 seconds
+[2023-01-31T10:35:32.825+0000] {processor.py:153} INFO - Started process (PID=3285) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:32.829+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:35:32.833+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:32.833+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:32.861+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:35:32.885+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:32.885+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:35:32.903+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:35:32.903+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:35:32.916+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.095 seconds
+[2023-01-31T10:36:06.196+0000] {processor.py:153} INFO - Started process (PID=3380) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:06.360+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:36:06.470+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:06.470+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:07.484+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:07.765+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:07.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:36:07.855+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:07.855+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:36:07.935+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 2.009 seconds
+[2023-01-31T10:36:39.870+0000] {processor.py:153} INFO - Started process (PID=3459) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:39.899+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:36:39.909+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:39.909+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:40.037+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:36:40.143+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:40.143+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:36:40.199+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:36:40.199+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:36:40.273+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.427 seconds
+[2023-01-31T10:37:10.498+0000] {processor.py:153} INFO - Started process (PID=3542) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:10.517+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:37:10.532+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:10.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:10.634+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:11.073+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:11.072+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:37:11.239+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:11.222+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:37:11.439+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.963 seconds
+[2023-01-31T10:37:41.534+0000] {processor.py:153} INFO - Started process (PID=3621) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:41.536+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:37:41.538+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:41.538+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:41.568+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:37:41.602+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:41.601+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:37:41.620+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:37:41.620+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:37:41.637+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.107 seconds
+[2023-01-31T10:38:17.378+0000] {processor.py:153} INFO - Started process (PID=3699) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:17.419+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:38:17.436+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:17.436+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:18.083+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:18.568+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:18.567+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:38:18.668+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:18.668+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:38:18.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 1.421 seconds
+[2023-01-31T10:38:49.071+0000] {processor.py:153} INFO - Started process (PID=3799) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:49.086+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:38:49.089+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:49.088+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:49.128+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:38:49.163+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:49.163+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:38:49.188+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:38:49.188+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:38:49.227+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.176 seconds
+[2023-01-31T10:39:20.355+0000] {processor.py:153} INFO - Started process (PID=3878) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:20.372+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:39:20.378+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:20.377+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:20.433+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:20.463+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:20.463+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:39:20.515+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:20.515+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:39:20.543+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.193 seconds
+[2023-01-31T10:39:51.162+0000] {processor.py:153} INFO - Started process (PID=3957) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:51.163+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:39:51.164+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:51.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:51.186+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:39:51.237+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:51.237+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:39:51.255+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:39:51.254+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:39:51.270+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.113 seconds
+[2023-01-31T10:40:22.213+0000] {processor.py:153} INFO - Started process (PID=4036) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:22.215+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:40:22.216+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:22.216+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:22.235+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:22.272+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:22.272+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:40:22.298+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:22.297+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:40:22.313+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.104 seconds
+[2023-01-31T10:40:53.043+0000] {processor.py:153} INFO - Started process (PID=4114) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:53.048+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:40:53.053+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:53.053+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:53.101+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:40:53.142+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:53.142+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:40:53.213+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:40:53.213+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:40:53.264+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.233 seconds
+[2023-01-31T10:41:25.273+0000] {processor.py:153} INFO - Started process (PID=4193) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:25.279+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:41:25.284+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:25.284+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:25.316+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:25.353+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:25.353+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:41:25.377+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:25.377+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:41:25.408+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.155 seconds
+[2023-01-31T10:41:55.966+0000] {processor.py:153} INFO - Started process (PID=4272) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:55.969+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:41:55.972+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:55.972+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:56.051+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:41:56.127+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:56.126+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:41:56.289+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:41:56.288+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:41:56.468+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.505 seconds
+[2023-01-31T10:42:27.392+0000] {processor.py:153} INFO - Started process (PID=4368) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:27.402+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:42:27.408+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:27.408+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:27.460+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:27.507+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:27.506+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:42:27.542+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:27.542+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:42:27.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.221 seconds
+[2023-01-31T10:42:58.368+0000] {processor.py:153} INFO - Started process (PID=4452) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:58.369+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:42:58.370+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:58.370+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:58.421+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:42:58.446+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:58.446+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:42:58.466+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:42:58.466+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:42:58.480+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.116 seconds
+[2023-01-31T10:43:28.848+0000] {processor.py:153} INFO - Started process (PID=4530) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:43:28.861+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:43:28.864+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:43:28.864+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:43:28.911+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:43:28.959+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:43:28.959+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:43:29.004+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:43:29.003+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:43:29.063+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.226 seconds
+[2023-01-31T10:44:00.450+0000] {processor.py:153} INFO - Started process (PID=4609) to work on /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:44:00.485+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_main.py for tasks to queue
+[2023-01-31T10:44:00.501+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:44:00.501+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:44:00.605+0000] {processor.py:753} INFO - DAG(s) dict_keys(['maingoal']) retrieved from /opt/airflow/dags/assignment_main.py
+[2023-01-31T10:44:00.672+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:44:00.672+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-31T10:44:00.824+0000] {logging_mixin.py:137} INFO - [2023-01-31T10:44:00.824+0000] {dag.py:3441} INFO - Setting next_dagrun for maingoal to None, run_after=None
+[2023-01-31T10:44:00.867+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_main.py took 0.425 seconds

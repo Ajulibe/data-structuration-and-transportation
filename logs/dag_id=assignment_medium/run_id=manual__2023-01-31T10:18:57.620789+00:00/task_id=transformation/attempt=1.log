@@ -1,0 +1,24 @@
+[2023-01-31T10:19:03.050+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: assignment_medium.transformation manual__2023-01-31T10:18:57.620789+00:00 [queued]>
+[2023-01-31T10:19:03.059+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: assignment_medium.transformation manual__2023-01-31T10:18:57.620789+00:00 [queued]>
+[2023-01-31T10:19:03.062+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-31T10:19:03.063+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2023-01-31T10:19:03.064+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-31T10:19:03.078+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): transformation> on 2023-01-31 10:18:57.620789+00:00
+[2023-01-31T10:19:03.085+0000] {standard_task_runner.py:55} INFO - Started process 322 to run task
+[2023-01-31T10:19:03.093+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'assignment_medium', 'transformation', 'manual__2023-01-31T10:18:57.620789+00:00', '--job-id', '42', '--raw', '--subdir', 'DAGS_FOLDER/assignment_medium.py', '--cfg-path', '/tmp/tmpzds2kw5k']
+[2023-01-31T10:19:03.094+0000] {standard_task_runner.py:83} INFO - Job 42: Subtask transformation
+[2023-01-31T10:19:03.212+0000] {task_command.py:388} INFO - Running <TaskInstance: assignment_medium.transformation manual__2023-01-31T10:18:57.620789+00:00 [running]> on host 2ee7bc173f76
+[2023-01-31T10:19:03.317+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=assignment_medium
+AIRFLOW_CTX_TASK_ID=transformation
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-31T10:18:57.620789+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-31T10:18:57.620789+00:00
+[2023-01-31T10:19:03.329+0000] {logging_mixin.py:137} INFO - Number of times Frankfurt region appeared in the search results:  3
+[2023-01-31T10:19:03.330+0000] {python.py:177} INFO - Done. Returned value was: None
+[2023-01-31T10:19:03.341+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=assignment_medium, task_id=transformation, execution_date=20230131T101857, start_date=20230131T101903, end_date=20230131T101903
+[2023-01-31T10:19:03.383+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-01-31T10:19:03.405+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

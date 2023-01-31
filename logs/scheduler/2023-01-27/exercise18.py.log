@@ -1,0 +1,21 @@
+[2023-01-27T13:58:30.930+0000] {processor.py:153} INFO - Started process (PID=40) to work on /opt/airflow/dags/exercise18.py
+[2023-01-27T13:58:30.931+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/exercise18.py for tasks to queue
+[2023-01-27T13:58:30.933+0000] {logging_mixin.py:137} INFO - [2023-01-27T13:58:30.933+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/exercise18.py
+[2023-01-27T13:58:31.009+0000] {logging_mixin.py:137} INFO - [2023-01-27T13:58:31.008+0000] {abstractoperator.py:184} ERROR - Failed to resolve template field 'sql'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 182, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: sql/drop_table.sql
+[2023-01-27T13:58:31.012+0000] {logging_mixin.py:137} INFO - [2023-01-27T13:58:31.012+0000] {abstractoperator.py:184} ERROR - Failed to resolve template field 'sql'
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/abstractoperator.py", line 182, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+  File "/home/airflow/.local/lib/python3.7/site-packages/jinja2/loaders.py", line 218, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: sql/create_table.sql
+[2023-01-27T13:58:31.024+0000] {processor.py:753} INFO - DAG(s) dict_keys(['exercise18']) retrieved from /opt/airflow/dags/exercise18.py
+[2023-01-27T13:58:31.068+0000] {logging_mixin.py:137} INFO - [2023-01-27T13:58:31.068+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-27T13:58:31.086+0000] {logging_mixin.py:137} INFO - [2023-01-27T13:58:31.086+0000] {dag.py:3441} INFO - Setting next_dagrun for exercise18 to None, run_after=None
+[2023-01-27T13:58:31.113+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/exercise18.py took 0.185 seconds

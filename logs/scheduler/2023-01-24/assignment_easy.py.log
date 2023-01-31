@@ -215,3 +215,409 @@
 [2023-01-24T17:56:18.528+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:56:18.528+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2023-01-24T17:56:18.549+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:56:18.549+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
 [2023-01-24T17:56:18.564+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.106 seconds
+[2023-01-24T17:56:49.573+0000] {processor.py:153} INFO - Started process (PID=16739) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:56:49.576+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:56:49.577+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:56:49.577+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:56:49.608+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:56:49.631+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:56:49.631+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:56:49.663+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:56:49.663+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:56:49.677+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.110 seconds
+[2023-01-24T17:57:20.309+0000] {processor.py:153} INFO - Started process (PID=16816) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:20.313+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:57:20.315+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:20.315+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:20.384+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:20.437+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:20.437+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:57:20.459+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:20.459+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:57:20.478+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.176 seconds
+[2023-01-24T17:57:50.865+0000] {processor.py:153} INFO - Started process (PID=16909) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:50.867+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:57:50.869+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:50.869+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:50.900+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:57:50.924+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:50.924+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:57:50.944+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:57:50.944+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:57:50.955+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.097 seconds
+[2023-01-24T17:58:21.786+0000] {processor.py:153} INFO - Started process (PID=17002) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:21.789+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:58:21.790+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:21.790+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:21.862+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:21.910+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:21.910+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:58:21.938+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:21.938+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:58:21.955+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.175 seconds
+[2023-01-24T17:58:52.006+0000] {processor.py:153} INFO - Started process (PID=17079) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:52.008+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:58:52.009+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:52.009+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:52.051+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:58:52.076+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:52.076+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:58:52.096+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:58:52.096+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:58:52.107+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.106 seconds
+[2023-01-24T17:59:22.935+0000] {processor.py:153} INFO - Started process (PID=17172) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:22.937+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:59:22.941+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:22.941+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:22.962+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:22.983+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:22.982+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:59:22.997+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:22.997+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:59:23.007+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.077 seconds
+[2023-01-24T17:59:53.530+0000] {processor.py:153} INFO - Started process (PID=17265) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:53.532+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T17:59:53.533+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:53.533+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:53.560+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T17:59:53.590+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:53.590+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T17:59:53.616+0000] {logging_mixin.py:137} INFO - [2023-01-24T17:59:53.616+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T17:59:53.631+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.105 seconds
+[2023-01-24T18:00:24.295+0000] {processor.py:153} INFO - Started process (PID=17342) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:24.296+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:00:24.297+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:24.297+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:24.318+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:24.337+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:24.337+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:00:24.352+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:24.351+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:00:24.362+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.071 seconds
+[2023-01-24T18:00:55.066+0000] {processor.py:153} INFO - Started process (PID=17435) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:55.069+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:00:55.071+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:55.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:55.102+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:00:55.132+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:55.131+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:00:55.156+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:00:55.156+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:00:55.168+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.110 seconds
+[2023-01-24T18:01:25.720+0000] {processor.py:153} INFO - Started process (PID=17528) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:25.722+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:01:25.723+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:25.723+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:25.742+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:25.761+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:25.761+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:01:25.776+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:25.775+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:01:25.785+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.072 seconds
+[2023-01-24T18:01:56.528+0000] {processor.py:153} INFO - Started process (PID=17605) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:56.530+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:01:56.532+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:56.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:56.570+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:01:56.595+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:56.595+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:01:56.613+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:01:56.613+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:01:56.627+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.106 seconds
+[2023-01-24T18:02:27.651+0000] {processor.py:153} INFO - Started process (PID=17698) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:27.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:02:27.655+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:27.655+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:27.688+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:27.716+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:27.716+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:02:27.734+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:27.734+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:02:27.746+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.101 seconds
+[2023-01-24T18:02:58.521+0000] {processor.py:153} INFO - Started process (PID=17791) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:58.524+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:02:58.526+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:58.526+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:58.550+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:02:58.571+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:58.571+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:02:58.587+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:02:58.587+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:02:58.598+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.083 seconds
+[2023-01-24T18:03:29.340+0000] {processor.py:153} INFO - Started process (PID=17868) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:03:29.342+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:03:29.344+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:03:29.344+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:03:29.367+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:03:29.387+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:03:29.386+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:03:29.401+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:03:29.401+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:03:29.412+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.079 seconds
+[2023-01-24T18:04:00.394+0000] {processor.py:153} INFO - Started process (PID=17960) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:00.396+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:04:00.397+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:00.397+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:00.441+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:00.468+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:00.468+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:04:00.488+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:00.488+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:04:00.501+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.116 seconds
+[2023-01-24T18:04:31.493+0000] {processor.py:153} INFO - Started process (PID=18053) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:31.501+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:04:31.505+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:31.505+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:31.538+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:04:31.563+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:31.563+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:04:31.581+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:04:31.581+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:04:31.593+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.120 seconds
+[2023-01-24T18:05:02.583+0000] {processor.py:153} INFO - Started process (PID=18146) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:02.585+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:05:02.586+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:02.586+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:02.604+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:02.624+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:02.623+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:05:02.639+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:02.639+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:05:02.650+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.070 seconds
+[2023-01-24T18:05:33.507+0000] {processor.py:153} INFO - Started process (PID=18223) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:33.509+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:05:33.510+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:33.510+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:33.535+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:05:33.557+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:33.557+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:05:33.574+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:05:33.574+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:05:33.586+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.084 seconds
+[2023-01-24T18:06:04.572+0000] {processor.py:153} INFO - Started process (PID=18316) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:04.573+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:06:04.575+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:04.574+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:04.593+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:04.619+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:04.619+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:06:04.636+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:04.636+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:06:04.647+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.080 seconds
+[2023-01-24T18:06:35.488+0000] {processor.py:153} INFO - Started process (PID=18409) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:35.490+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:06:35.491+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:35.491+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:35.524+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:06:35.549+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:35.549+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:06:35.568+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:06:35.568+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:06:35.580+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.101 seconds
+[2023-01-24T18:14:05.865+0000] {processor.py:153} INFO - Started process (PID=18470) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:05.872+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:14:05.878+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:05.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:05.990+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:06.123+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:06.123+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:14:06.198+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:06.198+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:14:06.270+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.417 seconds
+[2023-01-24T18:14:47.215+0000] {processor.py:153} INFO - Started process (PID=18547) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:47.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:14:47.219+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:47.219+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:47.267+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:14:47.294+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:47.294+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:14:47.313+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:14:47.313+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:14:47.325+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.116 seconds
+[2023-01-24T18:16:19.543+0000] {processor.py:153} INFO - Started process (PID=18640) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:16:19.545+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T18:16:19.546+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:16:19.546+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:16:19.563+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T18:16:19.582+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:16:19.582+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T18:16:19.598+0000] {logging_mixin.py:137} INFO - [2023-01-24T18:16:19.597+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T18:16:19.608+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.069 seconds
+[2023-01-24T19:21:59.188+0000] {processor.py:153} INFO - Started process (PID=18717) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:21:59.190+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:21:59.191+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:21:59.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:21:59.211+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:21:59.232+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:21:59.232+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:21:59.247+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:21:59.247+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:21:59.258+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.074 seconds
+[2023-01-24T19:27:23.705+0000] {processor.py:153} INFO - Started process (PID=18809) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:23.706+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:27:23.708+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:23.707+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:23.746+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:23.772+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:23.772+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:27:23.792+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:23.792+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:27:23.804+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.106 seconds
+[2023-01-24T19:27:54.259+0000] {processor.py:153} INFO - Started process (PID=18886) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:54.261+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:27:54.263+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:54.263+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:54.298+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:27:54.325+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:54.325+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:27:54.344+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:27:54.344+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:27:54.356+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.103 seconds
+[2023-01-24T19:28:25.351+0000] {processor.py:153} INFO - Started process (PID=18979) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:25.353+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:28:25.354+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:25.354+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:25.373+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:25.392+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:25.392+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:28:25.408+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:25.408+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:28:25.418+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.070 seconds
+[2023-01-24T19:28:55.838+0000] {processor.py:153} INFO - Started process (PID=19072) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:55.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:28:55.841+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:55.840+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:55.860+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:28:55.878+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:55.878+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:28:55.893+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:28:55.893+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:28:55.903+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.069 seconds
+[2023-01-24T19:29:26.453+0000] {processor.py:153} INFO - Started process (PID=19166) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:26.455+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:29:26.456+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:26.456+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:26.475+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:26.499+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:26.499+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:29:26.522+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:26.522+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:29:26.540+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.089 seconds
+[2023-01-24T19:29:56.962+0000] {processor.py:153} INFO - Started process (PID=19243) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:56.965+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:29:56.966+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:56.966+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:56.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:29:57.012+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:57.012+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:29:57.029+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:29:57.029+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:29:57.040+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.085 seconds
+[2023-01-24T19:30:27.769+0000] {processor.py:153} INFO - Started process (PID=19336) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:27.771+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:30:27.772+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:27.772+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:27.789+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:27.809+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:27.809+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:30:27.825+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:27.824+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:30:27.835+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.069 seconds
+[2023-01-24T19:30:58.251+0000] {processor.py:153} INFO - Started process (PID=19429) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:58.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:30:58.254+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:58.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:58.270+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:30:58.290+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:58.290+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:30:58.304+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:30:58.304+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:30:58.314+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.067 seconds
+[2023-01-24T19:31:28.938+0000] {processor.py:153} INFO - Started process (PID=19506) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:28.942+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:31:28.944+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:28.944+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:28.967+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:28.987+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:28.987+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:31:29.002+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:29.002+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:31:29.013+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.081 seconds
+[2023-01-24T19:31:59.645+0000] {processor.py:153} INFO - Started process (PID=19599) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:59.647+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:31:59.649+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:59.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:59.676+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:31:59.701+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:59.701+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:31:59.719+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:31:59.719+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:31:59.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.092 seconds
+[2023-01-24T19:32:30.203+0000] {processor.py:153} INFO - Started process (PID=19692) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:32:30.205+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:32:30.206+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:32:30.206+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:32:30.223+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:32:30.242+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:32:30.242+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:32:30.257+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:32:30.257+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:32:30.268+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.068 seconds
+[2023-01-24T19:33:00.663+0000] {processor.py:153} INFO - Started process (PID=19769) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:00.665+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:33:00.666+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:00.666+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:00.688+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:00.709+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:00.708+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:33:00.723+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:00.723+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:33:00.735+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.077 seconds
+[2023-01-24T19:33:31.388+0000] {processor.py:153} INFO - Started process (PID=19862) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:31.392+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:33:31.393+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:31.393+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:31.420+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:33:31.439+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:31.439+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:33:31.454+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:33:31.454+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:33:31.465+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.083 seconds
+[2023-01-24T19:34:01.966+0000] {processor.py:153} INFO - Started process (PID=19955) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:01.968+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:34:01.970+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:01.970+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:01.999+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:02.022+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:02.022+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:34:02.040+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:02.040+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:34:02.051+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.092 seconds
+[2023-01-24T19:34:32.655+0000] {processor.py:153} INFO - Started process (PID=20033) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:32.658+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:34:32.660+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:32.660+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:32.683+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:34:32.703+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:32.703+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:34:32.718+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:34:32.718+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:34:32.729+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.081 seconds
+[2023-01-24T19:35:03.400+0000] {processor.py:153} INFO - Started process (PID=20125) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:03.402+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:35:03.404+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:03.404+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:03.427+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:03.447+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:03.447+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:35:03.463+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:03.463+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:35:03.473+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.080 seconds
+[2023-01-24T19:35:34.366+0000] {processor.py:153} INFO - Started process (PID=20217) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:34.368+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:35:34.369+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:34.369+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:34.392+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:35:34.412+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:34.412+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:35:34.427+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:35:34.427+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:35:34.437+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.077 seconds
+[2023-01-24T19:36:04.985+0000] {processor.py:153} INFO - Started process (PID=20310) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:04.987+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:36:04.988+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:04.988+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:05.019+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:05.054+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:05.053+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:36:05.088+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:05.088+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:36:05.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.124 seconds
+[2023-01-24T19:36:35.794+0000] {processor.py:153} INFO - Started process (PID=20387) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:35.796+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:36:35.797+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:35.797+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:35.819+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:36:35.839+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:35.839+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:36:35.853+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:36:35.853+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:36:35.865+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.077 seconds
+[2023-01-24T19:37:06.638+0000] {processor.py:153} INFO - Started process (PID=20480) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:06.640+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:37:06.641+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:06.641+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:06.665+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:06.684+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:06.684+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:37:06.700+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:06.700+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:37:06.711+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.078 seconds
+[2023-01-24T19:37:37.369+0000] {processor.py:153} INFO - Started process (PID=20573) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:37.370+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:37:37.372+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:37.372+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:37.389+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:37:37.408+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:37.408+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:37:37.422+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:37:37.422+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:37:37.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.067 seconds
+[2023-01-24T19:38:07.914+0000] {processor.py:153} INFO - Started process (PID=20650) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:07.916+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:38:07.917+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:07.917+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:07.941+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:07.962+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:07.962+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:38:07.978+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:07.978+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:38:07.988+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.079 seconds
+[2023-01-24T19:38:38.485+0000] {processor.py:153} INFO - Started process (PID=20743) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:38.486+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:38:38.487+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:38.487+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:38.506+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:38:38.527+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:38.527+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:38:38.542+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:38:38.542+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:38:38.552+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.071 seconds
+[2023-01-24T19:39:08.925+0000] {processor.py:153} INFO - Started process (PID=20837) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:08.927+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:39:08.929+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:08.928+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:08.949+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:08.970+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:08.970+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:39:08.985+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:08.984+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:39:08.996+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.076 seconds
+[2023-01-24T19:39:39.536+0000] {processor.py:153} INFO - Started process (PID=20914) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:39.539+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:39:39.541+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:39.541+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:39.568+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:39:39.590+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:39.590+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:39:39.608+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:39:39.608+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:39:39.620+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.089 seconds
+[2023-01-24T19:40:10.207+0000] {processor.py:153} INFO - Started process (PID=21007) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:10.210+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:40:10.211+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:10.211+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:10.237+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:10.259+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:10.259+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:40:10.277+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:10.277+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:40:10.288+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.086 seconds
+[2023-01-24T19:40:40.853+0000] {processor.py:153} INFO - Started process (PID=21100) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:40.856+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:40:40.857+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:40.857+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:40.874+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:40:40.892+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:40.892+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:40:40.907+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:40:40.907+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:40:40.918+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.068 seconds
+[2023-01-24T19:41:11.325+0000] {processor.py:153} INFO - Started process (PID=21193) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:11.327+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:41:11.329+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:11.328+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:11.352+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:11.377+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:11.377+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:41:11.394+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:11.393+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:41:11.405+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.083 seconds
+[2023-01-24T19:41:41.894+0000] {processor.py:153} INFO - Started process (PID=21270) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:41.895+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:41:41.896+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:41.896+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:41.913+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:41:41.931+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:41.931+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:41:41.946+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:41:41.946+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:41:41.957+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.067 seconds
+[2023-01-24T19:42:12.754+0000] {processor.py:153} INFO - Started process (PID=21363) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:12.755+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:42:12.756+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:12.756+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:12.775+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:12.794+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:12.794+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:42:12.810+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:12.810+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:42:12.823+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.073 seconds
+[2023-01-24T19:42:43.351+0000] {processor.py:153} INFO - Started process (PID=21456) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:43.354+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:42:43.355+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:43.355+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:43.383+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:42:43.406+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:43.406+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:42:43.421+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:42:43.421+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:42:43.433+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.086 seconds
+[2023-01-24T19:43:13.878+0000] {processor.py:153} INFO - Started process (PID=21533) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:13.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:43:13.881+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:13.881+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:13.910+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:13.936+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:13.936+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:43:13.956+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:13.956+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:43:13.969+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.098 seconds
+[2023-01-24T19:43:44.863+0000] {processor.py:153} INFO - Started process (PID=21626) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:44.864+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:43:44.865+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:44.865+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:44.883+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:43:44.902+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:44.902+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:43:44.917+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:43:44.917+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:43:44.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.069 seconds
+[2023-01-24T19:44:15.556+0000] {processor.py:153} INFO - Started process (PID=21719) to work on /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:44:15.557+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/assignment_easy.py for tasks to queue
+[2023-01-24T19:44:15.558+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:44:15.558+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:44:15.583+0000] {processor.py:753} INFO - DAG(s) dict_keys(['easy']) retrieved from /opt/airflow/dags/assignment_easy.py
+[2023-01-24T19:44:15.604+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:44:15.604+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-01-24T19:44:15.621+0000] {logging_mixin.py:137} INFO - [2023-01-24T19:44:15.621+0000] {dag.py:3441} INFO - Setting next_dagrun for easy to 2023-01-24T00:00:00+00:00, run_after=2023-01-25T00:00:00+00:00
+[2023-01-24T19:44:15.633+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/assignment_easy.py took 0.082 seconds

@@ -1,0 +1,23 @@
+[2023-01-31T10:42:38.471+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: assignment_hard.write_data manual__2023-01-31T10:42:29.109879+00:00 [queued]>
+[2023-01-31T10:42:38.494+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: assignment_hard.write_data manual__2023-01-31T10:42:29.109879+00:00 [queued]>
+[2023-01-31T10:42:38.498+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-31T10:42:38.503+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2023-01-31T10:42:38.505+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-31T10:42:38.534+0000] {taskinstance.py:1300} INFO - Executing <Task(_PythonDecoratedOperator): write_data> on 2023-01-31 10:42:29.109879+00:00
+[2023-01-31T10:42:38.544+0000] {standard_task_runner.py:55} INFO - Started process 2025 to run task
+[2023-01-31T10:42:38.553+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'assignment_hard', 'write_data', 'manual__2023-01-31T10:42:29.109879+00:00', '--job-id', '64', '--raw', '--subdir', 'DAGS_FOLDER/assignment_hard.py', '--cfg-path', '/tmp/tmpj0ql3dl1']
+[2023-01-31T10:42:38.561+0000] {standard_task_runner.py:83} INFO - Job 64: Subtask write_data
+[2023-01-31T10:42:38.733+0000] {task_command.py:388} INFO - Running <TaskInstance: assignment_hard.write_data manual__2023-01-31T10:42:29.109879+00:00 [running]> on host 2ee7bc173f76
+[2023-01-31T10:42:39.032+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=assignment_hard
+AIRFLOW_CTX_TASK_ID=write_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-31T10:42:29.109879+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-01-31T10:42:29.109879+00:00
+[2023-01-31T10:42:39.123+0000] {python.py:177} INFO - Done. Returned value was: None
+[2023-01-31T10:42:39.139+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=assignment_hard, task_id=write_data, execution_date=20230131T104229, start_date=20230131T104238, end_date=20230131T104239
+[2023-01-31T10:42:39.296+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-01-31T10:42:39.346+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check
